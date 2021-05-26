@@ -1,0 +1,124 @@
+== ATLANTIC ==
+
+ Angola
+ Benin
+ Bouvet Island
+ Cameroon
+ Canary Islands
+ Cape Verde
+ Democratic Republic of the Congo
+ Equatorial Guinea
+ Gabon
+ Gambia
+ Ghana
+ Guinea
+ Guinea-Bissau
+ Ivory Coast
+ Liberia
+ Madeira
+ Mauritania
+ Morocco
+ Namibia
+ Nigeria
+ Republic of the Congo
+ Saint Helena
+ Sao Tome and Príncipe
+ Senegal
+ Sierra Leone
+ South Africa
+ Togo
+ Anguilla
+ Antigua and Barbuda
+ Aruba
+ Barbados
+ Bonaire
+ Virgin Islands
+ Cayman Islands
+ Cuba
+ Curacao
+ Dominica
+ Dominican Republic
+ Guadeloupe
+ Grenada
+ Haiti
+ Jamaica
+ Martinique
+ Montserrat
+ Saba
+ Puerto Rico
+ Saint Barthélemy
+ Saint Kitts and Nevis
+ Saint Lucia
+ Sint Maarten
+ Saint Martin
+ Saint Vincent and the Grenadines
+ Sint Eustatius
+ Trinidad and Tobago
+ Turks and Caicos Islands
+ Virgin Islands
+ Albania
+ Belgium
+ Bosnia and Herzegovina
+ Bulgaria
+ Croatia
+ Cyprus
+ Denmark
+ Estonia
+ Finland
+ Faroe Islands
+ France
+ Georgia
+ Germany
+ Gibraltar
+ Greece
+ Guernsey
+ Iceland
+ Ireland
+ Isle of Man
+ Italy
+ Jersey
+ Latvia
+ Lithuania
+ Malta
+ Monaco
+ Montenegro
+ Netherlands
+ Northern Cyprus
+ Cyprus
+ Norway
+ Poland
+ Portugal
+ Romania
+ Russia
+ Slovenia
+ Spain
+ Sweden
+ Turkey
+ Ukraine
+ United Kingdom
+ Africa
+ Azores
+ Bahamas
+ Belize
+ Bermuda
+ Canada
+ Costa Rica
+ Greenland
+ Guatemala
+ Honduras
+ Mexico
+ Nicaragua
+ Panama
+ Saint Pierre and Miquelon
+ United States OF America
+ Argentina
+ Brazil
+ Colombia
+ Falkland Islands
+ French Guiana
+ Guyana
+ South Georgia
+ South Sandwich Islands
+ Suriname
+ Uruguay
+ Venezuela
